@@ -9,9 +9,9 @@ body {
 
 }
 
-@media screen and (min-width: 320px) and (max-width: 600px) {
+@media screen and (min-width: 280px) and (max-width: 600px) {
     body {
-        background-image: linear-gradient(rgb(255, 87, 177), rgb(255, 127, 148), rgb(255, 157, 174));
+        background-image: linear-gradient(rgba(255, 206, 28, 0.761), rgba(255, 238, 54, 0.761), rgba(255, 249, 75, 0.761));
         height: 100vh;
     }
 
