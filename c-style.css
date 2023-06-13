@@ -19,9 +19,9 @@ body {
         display: none;
     }
 
-    .heart:before {
-        content: '\2665';
-        color: rgb(252, 248, 50);
+    svg{
+        width: 35px;
+        height: 35px;
     }
 
     .ily {
